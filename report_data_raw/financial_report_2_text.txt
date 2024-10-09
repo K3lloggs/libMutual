@@ -1,0 +1,178 @@
+    1 Liberty Mutual Insurance Reports First  Quarter  Results  
+ 
+BOSTON, Mass., May 9, 202 4 – Liberty Mutual Holding Company Inc. and its subsidiaries (collectively “LMHC” 
+or the “Company”) reported net income attributable to LMHC of  $1.535  billion  for the three  months ended  March  31, 
+2024 , versus a net loss attributable to LMHC of $74 million  for the same period in 202 3. 
+ 
+“For the first quarter, we reported net income attributable to LMHC of $1.5 billion driven by strong core underwriting 
+results and a $663 million  after-tax benefit from the gain on the sale of our GRM West Operations,” said Tim Sweeney, 
+Liberty Mutual President & Chief Executive Officer. “Underwriting results continue to improve, with a 2. 8 point 
+improvement in the underlying loss ratio to 62. 1% for the first quarter driven by rate execution and other underwriting 
+actions. Catastrophe losses were in line wi th expectations for the quarter and improved 2.3 points  from the prior year. 
+In total, the loss ratio improved 5.9 points to 69.5%. Our US Retail Markets segment saw 5.2 points of improvement 
+in the underlying loss ratio compared to the prior year driven by targeted rate actions continuing to earn in and 
+favorable frequency trends. Despite higher current year large loss activity, Global Risk Solutions total combined ratio 
+improved 3.9 points from the prior year to 9 4.2%. Our ongoing expense management program drove a 2.5 point 
+reduction in the consolidated expense ratio to 26.3%. Overall, it was a strong quarter and we are pleased with the solid 
+progress we continue to make on profit improvement as we march towards our 95% combined ratio target in 2025. ” 
+The tables below outline highlights of LMHC’s  consolidated financial results for the three months ended March  31, 
+2024 . 
+ 
+Net Written Premium (“NWP”)  by Business:  
+ 
+Consolidated NWP by business was as follows:  
+ 
+ Three Months Ended  
+March 31,  
+$ in Millions  2024  2023  Change  
+US Retail Markets  $6,545  $6,943  (5.7%)  
+Global Risk Solutions  4,376  4,219  3.7 
+Corporate and Other  37 (7)      NM 
+   Total NWP  $10,958  $11,155  (1.8%)  
+   Foreign exchange effect on growth    0.1 
+   NWP growth excluding foreign exchange1   (1.9%)  
+1 Determined by assuming constant foreign exchange rates between periods.  
+NM = Not Meaningful 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+     2  
+ 
+Consolidated  Results of Operations : 
+ 
+ Three Months Ended  
+March 31,  
+$ in Millions  2024  2023  Change  
+Revenues  $12,475  $11,928  4.6%  
+Underlying PTOI before limited partnerships income  1,926  1,094  76.1 
+   Catastrophes  (824)  (1,075)  (23.3)  
+   Net incurred losses attributable to prior years:     
+     - Asbestos and environmental1 - - - 
+     - All other2 6 (104)  NM 
+Pre-tax operating income (loss) before limited partnerships 
+income  1,108  (85) NM 
+Limited partnerships income (loss)3 159 (84) NM 
+Pre-tax operating income (loss)  1,267  (169)  NM 
+Net realized losses  (92) (49) 87.8 
+Acquisition & integration costs  (21) (12) 75.0 
+Restructuring costs  (6) (2) 200.0  
+Pre-tax income (loss)  1,148  (232)  NM 
+Income tax expense (benefit)  270 (50) NM 
+Consolidated net income (loss) from continuing operations  878 (182)  NM 
+Discontinued operations, net of tax  663 115 NM 
+Consolidated net income (loss)  1,541  (67) NM 
+Less: Net income attributable to non -controlling interest  6 7 (14.3)  
+Net income (loss) attributable to LMHC  1,535  (74) NM 
+Net income (loss) attributable to LMHC excluding 
+unrealized impact4 1,543  (63) NM 
+Cash flow provided by continuing operations  $901 ($18)  NM 
+1 Asbestos and environmental is gross of the related adverse development reinsurance (the “NICO Reinsurance Transaction”, which is 
+described further in Reinsurance).  
+2 Net of earned premium and reinstatement premium attributable to prior years of $8 million for the three months ended March 31 , 2024, 
+and ($5) for the same period in 2023.  
+3 Limited partnerships income includes LP, LLC and other equity method income within net investment income in the accompanying Consolidated Statements of Operations and revenue and expenses from direct investments in natural resources.  
+4 Excludes unrealized gains on equity securities, unit linked life insurance, and the corresponding tax impact.  
+NM = Not Meaningful
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+     3 Combined Ratio:  
+ 
+ Three Months Ended  
+March 31,  
+CONSOLIDATED  2024  2023  Change 
+(Points)  
+Combined ratio     
+Claims and claim adjustment expense ratio  62.1% 64.9%  (2.8) 
+Underwriting expense ratio  26.3 28.8 (2.5)  
+Underlying combined ratio  88.4 93.7 (5.3) 
+Catastrophes  7.2 9.5 (2.3)  
+Net incurred losses attributable to prior years:     
+   - Asbestos and environmental  - - - 
+   - All other1 0.2 1.0 (0.8) 
+Total combined ratio  95.8%  104.2%  (8.4)  
+1 Net of earned premium and reinstatement premium attributable to prior years.  
+2 The combined ratio, expressed as a percentage, is a measure of underwriting profitability.  This measure should only be used in conjunction 
+with, and not in lieu of, underwriting income and may not be comparable to other performance measures used by the Company’s 
+competitors.  The combined ratio is computed as the sum  of the following property and casualty ratios: the ratio of claims and claim 
+adjustment expense less managed care income to earned premium; the ratio of insurance operating costs plus amortization of deferred policy acquisition costs less third -party administration income and fee income (primarily related to the Company’s involuntary market 
+servicing carrier operations) and installment charges to earned premium; and the ratio of policyholder dividends to earned pr emium. 
+Provisions for uncollectible premium  and reinsurance are not included in the combined ratio unless related to an asbestos and environmental 
+commutation and certain other run off.  Restructuring and acquisition and integration costs are not included in the combined ratio.  
+ 
+Equity:  
+ 
+ As of   
+March 31,  As of           
+December 31,   
+$ in Millions  2024  2023 Change  
+Unassigned equity  $31,526  $29,991  5.1%  
+Accumulated other comprehensive loss  (5,250) (5,127)                  2.4 
+Non-controlling interest  196 196  - 
+    Total equity  $26,4 72 $25,060  5.6% 
+     4 Subsequent Events  
+ 
+In April 2024, GRS announced a single unified strategy in Asia Pacific, critical to seize the significant opportunity in the region.  This includes the introduction of Liberty International Insurance (“LII”), a single demand pillar 
+incorporating Liberty Specialty Markets (“LSM”) and Asia Retail Markets (“ARM”) businesses to drive our strategy.  
+This change will be effective for second quarter reporting.  
+ 
+Management has assessed material subsequent events through May 8, 2024, the date the financial statements were 
+available to be issued.  
+ Financial Information  
+ The Company’s financial results, management's discussion and analysis of operating results and financial condition , 
+accompanying financial statements and other supplemental financial information for the three months ended March  
+31, 2024 are available on the Company's Investor Relations website at  www.libertymutualgroup.com/investors
+. 
+ 
+About Liberty Mutual Insurance  
+ 
+At Liberty Mutual, we believe progress happens when people feel secure. By providing protection for the unexpected 
+and delivering it with care, we help people embrace today and confidently pursue tomorrow.  
+ 
+In business since 1912, and headquartered in Boston, today we are the eighth  largest global property and casualty 
+insurer based on 2023 gross written premium. We also rank 86th on the Fortune 100 list of largest corporations in the 
+US based on 2022 revenue. As of December 31, 202 3, we had $ 49.4 billion in annual consolidated revenue.  
+ 
+We employ over 45,000 people in 29 countries and economies around the world. We offer a wide range of insurance 
+products and services, including personal automobile, homeowners, specialty lines, reinsurance, commercial multiple -
+peril, workers compensation, commercial automobile, general liability, surety , and commercial property.  
+ For more information, visit www.libertymutualinsurance.com
+. 
+ Cautionary Statement Regarding Forward Looking Statements  
+ This report contains forward looking statements that are intended to enhance the reader’s ability to assess the future financial and business performance of the Company. Forward looking statements include, but are not limited to, 
+statements that represent the Company’s beliefs concerning future operations, strategies, financial results, investment 
+market fluctuations, or other developments, and contain words and phrases such as “may,” “expects,” “should,” “believes,” “anticipates,” “estimates,” “intends” or  similar expressions. Because these forward -looking statements are 
+based on estimates and assumptions that are subject to significant business, economic and competitive uncertainties, many of which are beyond the Company’s control or are subject to change,  actual results could be materially different.  
+ 
+ 
+Contact:   Investor Relations    Media Relations  
+  Robert Pietsch     Rich Angevine  
+  857-224-6655    617-833-0926 

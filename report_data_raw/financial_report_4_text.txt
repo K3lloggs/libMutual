@@ -1,0 +1,185 @@
+    1 Liberty Mutual Insurance Reports Second Quarter 2023 Results 
+ 
+BOSTON, Mass., August 9, 202 3 – Liberty Mutual Holding Company Inc. and its subsidiaries (collectively “LMHC” 
+or th e “Company”) reported net loss attributable to LMHC of  $585  million  and $660 million for the three  and six 
+months ended June 30, 2023 , versus net loss attributable to LMHC of $343  million  and income of $155 million for 
+the same period s in 2022 . 
+ 
+“During and subsequent to the quarter end, we announced key organizational changes and executive leadership 
+appointments aimed at enhancing focus on long- term strategic markets, while better leveraging scale advantages to 
+drive target profitability and sustainable success,” said Tim Sweeney, Liberty Mutual President & Chief Executive Officer. “We have announced agreements to divest our GRM West operations in Europe and Latin America, and our 
+GRS Liberty Specialty Markets direct insurance business operations in Brazil, Chile, and Colombia. This allows us 
+to elevate our US -focused personal and small commercial business into a standalone business unit, called US Retai l 
+Markets or (USRM) and consolidate our international operations under one umbrella in Global Risk Solutions.”  
+ 
+“For the second quarter, we reported a net loss attributable to LMHC of $585 million, primarily driven by elevated 
+catastrophe losses from wides pread wind and hail events in Texas, Oklahoma, and Colorado,” said Sweeney. “We 
+have and continue to take rate and underwriting action to address the inflationary pressures in personal lines felt across the industry, resulting in a 4.7-point improvement in the underlying loss ratio in our Global Retail Markets 
+business in the quarter. Despite elevated catastrophes, our Global Risk Solutions business is continuing to drive progress towards our combined ratio targets with improvement in the underlying loss ra tio of 0.4pts in the quarter.”  
+ The tables below outline highlights of LMHC’s consolidated financial results for the three and six months ended June 
+30, 2023 . 
+ Net Written Premium (“NWP”)  by Business: 
+ Consolidated NWP by business was as follows:  
+ 
+ Three Months Ended  
+June 30,  Six Months Ended  
+June 30,  
+$ in Millions  2023  2022  Change  2023  2022  Change  
+Global Retail Markets  $8,176  $8,162  0.2%  $15,550  $15,257  1.9%  
+Global Risk Solutions  3,707  3,689  0.5 7,497  7,618  (1.6)  
+Corporate and Other  (47) (30) 56.7 (55) (108)  (49.1)  
+   Total NWP  $11,836  $11,821  0.1%  $22,992  $22,767  1.0%  
+   Foreign exchange effect on growth    (0.3)    (0.5)  
+   NWP growth excluding foreign 
+exchange1   0.4%    1.5%  
+1 Determined by assuming constant foreign exchange rates between periods.  
+ 
+ 
+ 
+   
+ 
+    
+ 
+ 
+ 
+ 
+     2 Consolidated  Results of Operations:  
+ 
+ Three Months Ended  
+June 30,  Six Months Ended  
+June 30,  
+$ in Millions  2023  2022  Change  2023  2022  Change  
+Revenues  $12,354  $11,580  6.7%  $24,281  $22,799  6.5%  
+Underlying PTOI before limited partnerships 
+income  $1,197  $650 84.2 $2,125  $1,692  25.6 
+   Catastrophes  (2,267)  (1,104)  105.3  (3,342)  (1,761)  89.8 
+   Net incurred losses attributable to prior 
+years:        
+     - Asbestos and environmental1 - (5) (100.0)  - (5) (100.0)  
+     - All other2 608 141 NM 519 132 NM 
+    Current accident year re -estimation3 (148)  - NM - - - 
+Pre-tax operating (loss) income before 
+limited partnerships income  (610)  (313) 94.9 (698)  63 NM 
+Limited partnerships income (loss)4 107 468 (77.1)  23 832 (97.2)  
+Pre-tax operating (loss) income  (503)  155 NM (675)  895 NM 
+Net realized losses  (63) (583)  (89.2)  (112)  (673)  (83.4)  
+Acquisition & integration costs  (13) (48) (72.9)  (25) (57) (56.1)  
+Restructuring costs  (38) 2 NM (40) 2 NM 
+Pre-tax (loss) income  (617)  (474)  30.2 (852)  167 NM 
+Income tax (benefit) expense  (150)  (100)  50.0 (200)  49 NM 
+Consolidated net (loss) income from 
+continuing operations  (467)  (374)  24.9 (652)  118 NM 
+Discontinued operations, net of tax  (115)  32 NM 2 38 (94.7)  
+Consolidated net (loss) income  (582)  (342)  70.2 (650)  156 NM 
+Less: Net income attributable to non-
+controlling interest  3 1 200.0  10 1 NM 
+Net (loss) income attributable to LMHC  (585)  (343)  70.6 (660)  155 NM 
+Net (loss) income attributable to LMHC 
+excluding unrealized impact5 (528)  (225)  134.7  (596)  362 NM 
+Cash flow provided by continuing operations  $444 $1,003  (55.7%) $424 $1,733 (75.5%)  
+1 Asbestos and environmental is gross of the related adverse development reinsurance (the “NICO Reinsurance Transaction”, which is 
+described further in Reinsurance).  
+2 Net of earned premium and reinstatement premium attributable to prior years of $25 million a nd $31  million for the three and six months 
+ended June 30, 2023, and $36  million and $45 million for the same periods in 2022.  
+3 Re-estimation of the current accident year loss reserves for the three months ended March 31, 2023.  
+4 Limited partnerships income includes LP, LLC and other equity method income within net investment income in the accompanying 
+Consolidated Statement of Operations and revenue and expenses from direct investments in natural resources.  
+5 Excludes unrealized gai ns on equity securities, unit linked life insurance, and the corresponding tax impact.  
+NM = Not Meaningful  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     3 Combined Ratio:  
+ 
+ Three Months Ended  
+June 30,  Six Months Ended  
+June 30,  
+CONSOLIDATED  2023  2022  Change 
+(Points)  2023  2022  Change 
+(Points)  
+Combined ratio        
+Claims and claim adjustment expense 
+ratio 64.7%  68.1%  (3.4)  65.5%  66.1%  (0.6)  
+Underwriting expense ratio  28.8 28.7 0.1 28.5 28.2 0.3 
+Underlying combined ratio  93.5 96.8 (3.3)  94.0 94.3 (0.3)  
+Catastrophes  20.0 10.0 10.0 14.8 8.3 6.5 
+Net incurred losses attributable to 
+prior years:        
+   - Asbestos and environmental  - 0.1 (0.1)  - - - 
+   - All other1 (5.4)  (1.3)  (4.1)  (2.3)  (0.7)  (1.6)  
+Current accident year re -estimation2 1.3 - 1.3 - - - 
+Total combined ratio  109.4%  105.6%  3.8 106.5%  101.9%  4.6 
+1 Net of earned premium and reinstatement premium attributable to prior years.  
+2 Re-estimation of the current accident year loss reserves for the three months ended March 31, 2023.  
+3 The combined ratio, expressed as a percentage, is a measure of underwriting profitability.  This measure should only be used in conjunction 
+with, and not in lieu of, underwriting income and may not be comparable to other performance measures used by the Company’s 
+compe titors.  The combined ratio is computed as the sum of the following property and casualty ratios: the ratio of claims and cla im 
+adjustment expense less managed care income to earned premium; the ratio of insurance operating costs plus amortization of de ferred 
+policy acquisition costs less third -party administration income and fee income (primarily related to the Company’s involuntary market 
+servicing carrier operations) and installment charges to earned premium; and the ratio of policyholder dividends to ea rned premium. 
+Provisions for uncollectible premium and reinsurance are not included in the combined ratio unless related to an asbestos and environmental 
+commutation and certain other run off.  Restructuring and acquisition and integration costs are not included in the combined ratio.  
+ 
+Equity:  
+ 
+ As of   
+June 30 , As of           
+December 31,   
+$ in Millions   
+2023  
+2022 Change  
+Unassigned equity  $29,118  $29,822  (2.4%)  
+Accumulated other comprehensive (loss) (7,120)  (7,830)  (9.1)  
+Non-controlling interest  224 216 3.7 
+    Total equity  $22,222  $22,208  0.1%  
+     4 Subsequent Events  
+ 
+Management has assessed material subsequent events through August 9, 2023, the date the financial statements were 
+available to be issued.  
+ 
+Financial Information 
+ 
+The Company’s financial results, management's discussion and analysis of operating results and financial condition, accompanying financial statements and other supplemental financial information for the three and six months ended 
+June 30, 2023  are available on the Company's Investor Relations website at www.libertymutualgroup.com/investors
+.  
+ Conference Call Information  
+ On August 10, 2023, at 10:00 a.m. Eastern Time, Tim Sweeney, Liberty Mutual Insurance President and CEO, will host a conference call to discuss the Company's second quarter financial results. To participate in the event via 
+telephone and to ask a question,  please dial 8 44-481-2837 and request to join into the Liberty Mutual Insurance call. 
+To listen to the call online via PC and view a presentation on financial performance, please log into 
+https://event.choruscall.com/mediaframe/webcast.html?webcastid=KnLWT9QW
+. Following the call, a recording of 
+the event will be available on the Investor Relations section of Liberty Mutual's website, 
+www.libertymutualgroup.com/investors . 
+ 
+About Liberty Mutual Insurance  
+ At Liberty Mutual, we believe progress happens when people feel secure. By providing protection for the unexpected and delivering it with care, we help people embrace today and confidently pursue tomorrow.  
+ In business since 1912, and headquartered in Boston, today we are the fifth largest global property and casualty insurer 
+based on 2022 gross written premium. We also rank 86
+th on the Fortune 100 list of largest corporations in the U.S. 
+based on 2022 revenue. As of Dece mber 31, 2022 , we had $50.0 billion in annual consolidated revenue.  
+ We employ over 50 ,000 people in 29 countries and economies around the world. We offer a wide range of insurance 
+products and services, including personal automobile, homeowners, specialty lines, reinsurance, commercial multiple-
+peril, workers compensation, commercial automobile, general liability, surety, and commercial property.  
+ For more information, visit www.libertymutualinsurance.com
+. 
+  Cautionary Statement Regarding Forward Looking Statements  
+ This report contains forward looking statements that are intended to enhance the reader’s ability to assess the future 
+financial and business performance of the Company. Forward looking statements include, but are not limited to, 
+statements that represent the Company’s beliefs concerning future operations, strategies, financial results, investment market fluctuations, or other developments, and contain words and phrases such as “may,” “expects,” “should,” “believes,” “anticipates,” “estimates,” “intends” or similar expressions. Because these forward -looking statements are 
+based on estimates and assumptions that are subject to significant business, economic and competitive uncertainties, many of which are beyond the Company’s control or are subject to change, actual results could be materially different.  
+  Contact:  Investor Relations    Media Relations  
+  Nik Vasilakos     Rich Angevine  
+  857-224-6655    617-833-0926 
+   
