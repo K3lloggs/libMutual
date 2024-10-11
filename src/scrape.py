@@ -3,8 +3,6 @@ import PyPDF2
 
 
 def main():
-
-
     # PDF URLs
     pdf_links = [
         "https://www.libertymutualgroup.com/about-lm/investor-relations/documents/q2-2024-earnings-release1.pdf",
@@ -13,7 +11,6 @@ def main():
         "https://www.libertymutualgroup.com/about-lm/investor-relations/documents/q2-2023-earnings-release.pdf",
         "https://www.libertymutualgroup.com/about-lm/investor-relations/documents/q1-2023-earnings-release.pdf"
     ]
-
  
     for idx, pdf_url in enumerate(pdf_links):
         pdf_filename = f"financial_report_{idx+1}.pdf"
@@ -64,7 +61,6 @@ def extract_text_from_pdf(file_path):
     with open(file_path, "rb") as file:
         
         reader = PyPDF2.PdfReader(file)
-        
         all_text = ""
         
        
@@ -72,8 +68,6 @@ def extract_text_from_pdf(file_path):
             page = reader.pages[page_num]
             all_text += page.extract_text()
         return all_text
-
-
 
 
 if __name__ == "__main__":
